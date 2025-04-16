@@ -14,3 +14,8 @@ class Airplane:
 for vehicle in [Car(), Boat(), Airplane()]:
     print(vehicle.move())
 
+# Output:
+# driving
+# sailing
+# flying
+
